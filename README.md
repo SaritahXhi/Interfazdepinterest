@@ -15,4 +15,6 @@ Se enfoca en replicar la apariencia visual de pinteres, ofreciendo una experienc
  + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
  + **Google Fonts:** para fuentes personalizadas.
 
- + 
+### Vista previa del proyecto.
+
+
