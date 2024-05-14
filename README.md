@@ -13,4 +13,6 @@ Se enfoca en replicar la apariencia visual de pinteres, ofreciendo una experienc
  ### Tecnologías utilizadas.
  + **HTML5:** Para la estructura básica del sitio.
  + **CSS3:** Para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
+ + **Google Fonts:** para fuentes personalizadas.
+
  + 
