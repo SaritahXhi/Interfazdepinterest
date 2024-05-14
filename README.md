@@ -16,5 +16,6 @@ Se enfoca en replicar la apariencia visual de pinteres, ofreciendo una experienc
  + **Google Fonts:** para fuentes personalizadas.
 
 ### Vista previa del proyecto.
+![Demo](imagenes/pinterest_screen.png)
 
 ### Contacto
